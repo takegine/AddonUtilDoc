@@ -1,14 +1,10 @@
-## @mobilc/utils - v0.0.30
+## @mobilc/utils - v0.0.35
 
 - [Home](home)
 - [Exports](Exports)
-
-### Classes
-
-- [ProgressBar](classes/ProgressBar)
 
 ### Interfaces
 
 - [IncomeProps](interfaces/IncomeProps)
 - [OutPutProps](interfaces/OutPutProps)
-- [xmlProps](interfaces/xmlProps)
+- [layoutFileType](interfaces/layoutFileType)
