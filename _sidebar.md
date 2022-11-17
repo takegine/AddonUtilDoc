@@ -1,4 +1,4 @@
-## @mobilc/utils - v0.0.35
+## @mobilc/utils - v0.1.0
 
 - [Home](home)
 - [Exports](Exports)
